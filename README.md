@@ -9,20 +9,20 @@ Tech Stack
 ● Database: PostgreSQL/MySQL
 ● Frontend: ReactJs
 
-Requirements
+## Requirements
 We need a web application that allows users to submit ratings for stores registered on the
 platform. The ratings should range from 1 to 5.
 A single login system should be implemented for all users. Based on their roles, users will
 have access to different functionalities upon logging in.
 Normal users should be able to sign up on the platform through a registration page.
 
-User Roles
+## User Roles
 1. System Administrator
 2. Normal User
 3. Store Owner
    
 # Functionalities
-System Administrator
+**System Administrator**
 ● Can add new stores, normal users, and admin users.
 ● Has access to a dashboard displaying:
 ○ Total number of users
@@ -41,8 +41,9 @@ System Administrator
 ● Can view details of all users, including Name, Email, Address, and Role.
 ○ If the user is a Store Owner, their Rating should also be displayed.
 ● Can log out from the system.
-Normal User
 
+
+**Normal User**
 ● Can sign up and log in to the platform.
 ● Signup form fields:
 ○ Name
@@ -61,7 +62,8 @@ Normal User
 ○ Option to modify their submitted rating
 ● Can submit ratings (between 1 to 5) for individual stores.
 ● Can log out from the system.
-Store Owner
+
+**Store Owner**
 ● Can log in to the platform.
 ● Can update their password after logging in.
 ● Dashboard functionalities:
