@@ -6,7 +6,9 @@
 
 Tech Stack
 ● Backend: Any one of backend framework from this ExpressJs/Loopback/NestJs
+
 ● Database: PostgreSQL/MySQL
+
 ● Frontend: ReactJs
 
 ## Requirements
