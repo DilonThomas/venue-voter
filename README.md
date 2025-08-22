@@ -5,6 +5,7 @@
 ## FullStack Intern Coding Challenge
 
 Tech Stack
+
 ● Backend: Any one of backend framework from this ExpressJs/Loopback/NestJs
 
 ● Database: PostgreSQL/MySQL
@@ -25,6 +26,7 @@ Normal users should be able to sign up on the platform through a registration pa
    
 # Functionalities
 **System Administrator**
+
 ● Can add new stores, normal users, and admin users.
 ● Has access to a dashboard displaying:
 ○ Total number of users
@@ -46,6 +48,7 @@ Normal users should be able to sign up on the platform through a registration pa
 
 
 **Normal User**
+
 ● Can sign up and log in to the platform.
 ● Signup form fields:
 ○ Name
@@ -66,6 +69,7 @@ Normal users should be able to sign up on the platform through a registration pa
 ● Can log out from the system.
 
 **Store Owner**
+
 ● Can log in to the platform.
 ● Can update their password after logging in.
 ● Dashboard functionalities:
